@@ -66,9 +66,6 @@
 #### Connect With Me
 
 <p left="center">
-<a href="mailto:sudiptobaral.me@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
 <a href="https://twitter.com/sudiptob2">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
@@ -80,5 +77,8 @@
 </a>
 <a href="https://medium.com/@sudiptob2">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="mailto:sudiptobaral.me@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
