@@ -20,7 +20,7 @@
 
 #### Language and Tools
 
-<code><img height="28" src="img/python-original.svg" alt="python"></code> <code><img height="28" src="img/django-plain-wordmark.svg" alt="Django"></code> <code><img height="28" src="img/postgresql-original.svg" alt="postgress"></code> <code><img height="28" src="img/docker-original.svg" alt="Docker"></code> <code><img height="28" src="img/linux-original.svg" alt="linux"></code> <code><img height="28" src="img/nginx-original.svg" alt="nginx"></code> <code><img height="28" src="img/pytest-original.svg" alt="pytest"></code> <code><img height="28" src="img/git-original.svg" alt="git"></code> <code><img height="28" src="img/react-original.svg" alt="react"></code>
+<img height="28" src="img/python-original.svg" alt="python"> <img height="28" src="img/django-plain-wordmark.svg" alt="Django"> <img height="28" src="img/postgresql-original.svg" alt="postgress"> <img height="28" src="img/docker-original.svg" alt="Docker"> <img height="28" src="img/linux-original.svg" alt="linux"> <img height="28" src="img/nginx-original.svg" alt="nginx"> <img height="28" src="img/pytest-original.svg" alt="pytest"> <img height="28" src="img/git-original.svg" alt="git"> <img height="28" src="img/react-original.svg" alt="react">
 
 #### NOW
 
