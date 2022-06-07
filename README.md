@@ -49,9 +49,9 @@
 </details>
 
 <details>	
-  <summary><b>⚡ Leetcode Stats</b></summary>
+  <summary><b>&#128200; Leetcode Stats</b></summary>
   <br />
-  <img height="180em" src="https://leetcard.jacoblin.cool/sudiptob2?border=1&radius=1" />
+  <img height="180em" src="https://leetcard.jacoblin.cool/sudiptob2?border=1&radius=1&theme=wtf" />
 </details>
 
 #### Recent Activity
