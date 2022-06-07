@@ -18,18 +18,17 @@
   </a>
 </p>
 
-##### Language and Tools
+#### Language and Tools
 
 <code><img height="16" src="img/python-original.svg" alt="python"></code> <code><img height="16" src="img/django-plain-wordmark.svg" alt="Django"><code><code><img height="16" src="img/postgresql-original.svg" alt="postgress"></code> <code><img height="16" src="img/docker-original.svg" alt="Docker"></code> <code><img height="16" src="img/linux-original.svg" alt="linux"></code> <code><img height="16" src="img/nginx-original.svg" alt="nginx"></code> <code><img height="16" src="img/pytest-original.svg" alt="pytest"></code> <code><img height="16" src="img/git-original.svg" alt="git"></code> <code><img height="16" src="img/react-original.svg" alt="react"></code>
 
-##### NOW
+#### NOW
 
 - ✨ Started open source;
 - 🇵🇹 Learning cyber security;
 - 🍑 Planing to learn kubernetes
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-##### BIO
+#### BIO
 
 - 🏢 I'm currently working at **BRAC IT**
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
