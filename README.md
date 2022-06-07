@@ -22,13 +22,13 @@
 
 <img height="28" src="img/python-original.svg" alt="python"> <img height="28" src="img/django-plain-wordmark.svg" alt="Django"> <img height="28" src="img/postgresql-original.svg" alt="postgress"> <img height="28" src="img/docker-original.svg" alt="Docker"> <img height="28" src="img/linux-original.svg" alt="linux"> <img height="28" src="img/nginx-original.svg" alt="nginx"> <img height="28" src="img/pytest-original.svg" alt="pytest"> <img height="28" src="img/git-original.svg" alt="git"> <img height="28" src="img/react-original.svg" alt="react">
 
-#### NOW
+#### Now
 
 - ✨ Started open source;
 - 🇵🇹 Learning cyber security;
 - 🍑 Planing to learn kubernetes
 
-#### BIO
+#### Bio
 
 - 🏢 I'm currently working at **BRAC IT**
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
