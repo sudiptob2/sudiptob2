@@ -3,9 +3,7 @@
 #### Software Engineer working in Dhaka, Bangladesh.
 
 <p align="left">
-  </a>
-    </a>
-    <a href="https://leetcode.com/sudiptob2/">
+  <a href="https://leetcode.com/sudiptob2/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/5921662/sudipto">
@@ -14,8 +12,10 @@
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
-    <a href="https://github.com/sudiptob2/">
+  <a href="https://github.com/sudiptob2/">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="profile views" />
+  </a>
+
 </p>
 
 #### Language and Tools
