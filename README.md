@@ -25,8 +25,8 @@
 #### Now
 
 - ✨ Started open source;
-- 🇵🇹 Learning cyber security;
-- 🍑 Planing to learn kubernetes
+- :fire: Learning cyber security;
+- :calendar: Planing to learn kubernetes
 
 #### Bio
 
@@ -36,4 +36,4 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 📝 Checkout my [Resume](files/resume.pdf).
