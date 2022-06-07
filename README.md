@@ -25,7 +25,7 @@
 #### NOW
 
 - ✨ Started open source;
-- 🇵🇹 Learning cyber security;
+- :checkered_flag: Learning cyber security;
 - 🍑 Planing to learn kubernetes
 
 #### BIO
