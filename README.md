@@ -3,6 +3,11 @@
 #### Software Engineer working in Dhaka, Bangladesh.
 
 <p align="left">
+  </a>
+    </a>
+    <a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
+  </a>
   <a href="https://stackoverflow.com/users/5921662/sudipto">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
@@ -11,11 +16,6 @@
   </a>
     <a href="https://github.com/sudiptob2/">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="profile views" />
-  </a>
-    </a>
-    <a href="https://leetcode.com/sudiptob2/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
 </p>
 
 #### Language and Tools
@@ -48,8 +48,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-### My Recent Blog Posts
+#### Recent Activity
+
+<details>	
+  <summary><b> &#128210; Latest Medium Blogs</b></summary>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article">
+
+</details>
