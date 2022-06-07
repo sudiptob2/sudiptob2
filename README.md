@@ -20,12 +20,12 @@
 
 #### Language and Tools
 
-<code><img height="16" src="img/python-original.svg" alt="python"></code> <code><img height="16" src="img/django-plain-wordmark.svg" alt="Django"><code><code><img height="16" src="img/postgresql-original.svg" alt="postgress"></code> <code><img height="16" src="img/docker-original.svg" alt="Docker"></code> <code><img height="16" src="img/linux-original.svg" alt="linux"></code> <code><img height="16" src="img/nginx-original.svg" alt="nginx"></code> <code><img height="16" src="img/pytest-original.svg" alt="pytest"></code> <code><img height="16" src="img/git-original.svg" alt="git"></code> <code><img height="16" src="img/react-original.svg" alt="react"></code>
+<code><img height="20" src="img/python-original.svg" alt="python"></code> <code><img height="20" src="img/django-plain-wordmark.svg" alt="Django"></code> <code><img height="20" src="img/postgresql-original.svg" alt="postgress"></code> <code><img height="20" src="img/docker-original.svg" alt="Docker"></code> <code><img height="20" src="img/linux-original.svg" alt="linux"></code> <code><img height="20" src="img/nginx-original.svg" alt="nginx"></code> <code><img height="20" src="img/pytest-original.svg" alt="pytest"></code> <code><img height="20" src="img/git-original.svg" alt="git"></code> <code><img height="20" src="img/react-original.svg" alt="react"></code>
 
 #### NOW
 
 - ✨ Started open source;
-- :checkered_flag: Learning cyber security;
+- 🇵🇹 Learning cyber security;
 - 🍑 Planing to learn kubernetes
 
 #### BIO
