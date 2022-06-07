@@ -48,10 +48,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
+<details>	
+  <summary><b>⚡ Leetcode Stats</b></summary>
+  <br />
+  <img height="180em" src="https://leetcard.jacoblin.cool/sudiptob2?border=1&radius=1" />
+</details>
+
 #### Recent Activity
 
 <details>	
-  <summary><b> &#136210; Latest Medium Blogs</b></summary>
+  <summary><b> &#9749; Latest Medium Blogs</b></summary>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
 
