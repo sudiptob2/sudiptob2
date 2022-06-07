@@ -1,6 +1,4 @@
-### Sudipto Baral
-
-#### Software Engineer working in Dhaka, Bangladesh.
+## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
@@ -13,14 +11,10 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
   <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
   </a>
 
 </p>
-
-#### Language and Tools
-
-<img height="36" src="img/python-original.svg" alt="python"> <img height="36" src="img/django-plain-wordmark.svg" alt="Django"> <img height="36" src="img/postgresql-original.svg" alt="postgress"> <img height="36" src="img/docker-original.svg" alt="Docker"> <img height="36" src="img/linux-original.svg" alt="linux"> <img height="36" src="img/nginx-original.svg" alt="nginx"> <img height="36" src="img/pytest-original.svg" alt="pytest"> <img height="36" src="img/git-original.svg" alt="git"> <img height="36" src="img/react-original.svg" alt="react">
 
 #### Now
 
@@ -37,6 +31,10 @@
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
 - 📝 Checkout my [Resume](files/resume.pdf).
+
+#### My Current Stack
+
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
