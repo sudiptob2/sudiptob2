@@ -18,7 +18,7 @@
 
 #### Now
 
-- ✨ Started open source;
+- ✨ Contributing to [chkware](https://github.com/chkware/cli);
 - :fire: Learning Cloud Engineering & Cyber Security;
 - :calendar: Planing to learn kubernetes
 
