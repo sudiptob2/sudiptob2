@@ -38,30 +38,24 @@
 
 #### Development Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>&#128200; Leetcode Stats</b></summary>
-  <br />
-  <img height="180em" src="https://leetcard.jacoblin.cool/sudiptob2?border=1&radius=1&theme=wtf" />
-</details>
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="180em" src="https://leetcard.jacoblin.cool/sudiptob2?border=1&radius=1&theme=wtf" />
+</p>
 
 #### Recent Activity
 
-<details>	
-  <summary><b> &#9749; Latest Medium Blogs</b></summary>
+<p><b> &#9749; Latest Medium Blogs</b></p>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
-
-</details>
 
 #### Connect With Me
 
