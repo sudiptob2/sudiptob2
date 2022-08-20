@@ -22,8 +22,8 @@
 #### Now
 
 - ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Learning Cloud Engineering & Cyber Security;
-- :calendar: Planing to learn kubernetes
+- :fire: Interested in DevOps and Cloud engineering;
+- :calendar: Looking for contributing to python based open source projects 
 
 #### Bio
 
