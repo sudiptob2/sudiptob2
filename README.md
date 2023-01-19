@@ -43,8 +43,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
 <b>&#128200; Competitive Programming</b>
