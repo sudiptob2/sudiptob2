@@ -23,7 +23,7 @@
 
 - ✨ Contributing to [chkware](https://github.com/chkware/cli);
 - :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to python based open source projects 
+- :calendar: Looking for contributing to opensource project on infra & cloud domain 
 
 #### Bio
 
