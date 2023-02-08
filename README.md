@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## An Opensource contributor in Infra, Cloud, and DevOps space. From :bangladesh:	 
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
