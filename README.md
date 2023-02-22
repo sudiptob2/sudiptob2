@@ -21,14 +21,14 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+- ✨ Currently Contributing to [chkware](https://github.com/chkware/cli); [keptn](https://github.com/keptn); [jenkins-x-plugins](https://github.com/jenkins-x-plugins); 
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to opensource project on infra & cloud domain 
 
 #### Bio
 
 - 🏢 I'm currently working at **BRAC IT**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+- ⚙️ I use daily: `.py`, `.go`, `.js`, `.yml`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
