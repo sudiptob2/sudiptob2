@@ -1,4 +1,4 @@
-## An Opensource contributor in Infra, Cloud, and DevOps space. From :bangladesh:	 
+## Opensource contributor in Infra, Cloud, and DevOps space. From Bangladesh :bangladesh:	 
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
