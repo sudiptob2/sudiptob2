@@ -21,7 +21,7 @@
 
 #### Now
 
-- ✨ Currently Contributing to [chkware](https://github.com/chkware/cli); [keptn](https://github.com/keptn); [jenkins-x-plugins](https://github.com/jenkins-x-plugins); 
+- ✨ Currently Contributing to [chkware](https://github.com/chkware/cli); [keptn](https://github.com/keptn); [jenkins-x-plugins](https://github.com/jenkins-x-plugins); [gcp-scanner](https://github.com/google/gcp_scanner)
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to opensource project on infra & cloud domain 
 
@@ -33,7 +33,6 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
-- 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
 
