@@ -21,6 +21,7 @@
 
 #### Now
 
+- 🥇 Google Summer of Code [@gcp-scanner](https://github.com/google/gcp_scanner) 
 - ✨ Currently Contributing to [chkware](https://github.com/chkware/cli); [keptn](https://github.com/keptn); [jenkins-x-plugins](https://github.com/jenkins-x-plugins); [gcp-scanner](https://github.com/google/gcp_scanner)
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to opensource project on infra & cloud domain 
