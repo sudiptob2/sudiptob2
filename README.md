@@ -32,7 +32,7 @@ Project Link: https://github.com/google/gcp_scanner
 3. Expanding the capabilities of the application by enabling it to scan a wider range of GCP resources, thereby broadening its potential use cases.
 
 **KEPTN LIFECYCLE TOOLKIT** | _CNCF_ 
-Project Link: [https://github.com/keptn/lifecycle‐toolkit](https://github.com/keptn/lifecycle‐toolkit)
+Project Link: [https://github.com/keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
 1. Contributed approximately **700** lines of code to the project while implementing new features, bug fixes, and writing unit tests in Golang.
 2. Implemented Datadog metric provider integration. PR link: [#948
 ](https://github.com/keptn/lifecycle-toolkit/pull/948)
