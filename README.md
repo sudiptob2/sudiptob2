@@ -39,7 +39,7 @@ Project Link: [https://github.com/keptn/lifecycle-toolkit](https://github.com/ke
 3. Collaborated on the development and enhancement of documentation materials.
 
 **CF STATS** | _PERSONAL PROJECT_ 
-Project Link: https://github.com/sudiptob2/cf‐stats
+Project Link: [https://github.com/sudiptob2/cf‐stats](https://github.com/sudiptob2/cf-stats)
 1. Utilized GitHub action to generate real-time Codeforces user stat card and badges for readme files.
 2. Implemented Python design patterns to facilitate the consumption of Codeforces API in a scaleable manner.
 3. Applied Pytest for feature-level unit testing and implemented GitHub Actions for appropriate test pipeline execution.
