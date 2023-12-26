@@ -63,13 +63,11 @@ Some other notable open-source projects and contributions [ChkWareCLI](https://g
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
+#### Recent Blogs
+- [Scaling Kubernetes workloads using HPA + Prometheus + Keptn Metrics](https://github.com/sudiptob2/autoscaling-using-keptn-hpa-exercise)
+- [Before you start kubebuilder.io; Writing a simple custom K8s operators](https://sudiptobaral.hashnode.dev/before-you-start-kubebuilderio)
+- [My 1-week GoLang preparation](https://www.linkedin.com/pulse/my-take-golang-7-days-sudipto-baral-rdpuc%3FtrackingId=i61kz05DS%252FKPRh%252BZNVxwfQ%253D%253D/?trackingId=i61kz05DS%2FKPRh%2BZNVxwfQ%3D%3D)
+- [Properly Setting Up React Development Environment Using Docker](https://medium.com/@sudiptob2/properly-setting-up-react-development-environment-using-docker-a2de46464d0b)
 
 #### Connect With Me
 
