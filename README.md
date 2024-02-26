@@ -24,7 +24,7 @@ I am currently pursuing a full-time MSc in Computer Science at the University of
 **View my resume [here](https://raw.githubusercontent.com/sudiptob2/sudiptob2.github.io/main/files/resume.pdf).**
 
 ### OPENSOURCE EXPERIENCES
-**Intern, MLH Fellowship** | _Apace/Airflow_
+**INTERN, MLH Fellowship** | _Apace/Airflow_
 Project Link: https://github.com/apache/airflow
 
 1. Migrating to Connexion version 3
