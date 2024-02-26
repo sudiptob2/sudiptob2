@@ -24,6 +24,13 @@ I am currently pursuing a full-time MSc in Computer Science at the University of
 **View my resume [here](https://raw.githubusercontent.com/sudiptob2/sudiptob2.github.io/main/files/resume.pdf).**
 
 ### OPENSOURCE EXPERIENCES
+**Intern, MLH Fellowship** | _Apace/Airflow_
+Project Link: https://github.com/apache/airflow
+
+1. Migrating to Connexion version 3
+2. Enhancing logging functionality of Kubernetes Pod Operator (KPO)
+3. Open PR: https://github.com/apache/airflow/pull/37638
+
 **GOOGLE SUMMER OF CODE 2023** | _GCP SCANNER_
 Project Link: https://github.com/google/gcp_scanner
 
