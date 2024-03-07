@@ -1,4 +1,4 @@
-## MSc @UWO 🇨🇦 Opensource contributor in infra and Devops From :bangladesh:	 
+## MSc @UWO 🇨🇦 Opensource contributor in infra and Devops From 🇨🇦 🇧🇩	 
 
 <p align="left">
   <!--
