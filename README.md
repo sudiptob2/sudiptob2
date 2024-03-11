@@ -26,7 +26,7 @@ I am currently pursuing a full-time MSc in Computer Science at the University of
 **View my resume [here](https://github.com/sudiptob2/sudiptob2/blob/main/files/sudipto-baral-opensource.pdf).**
 
 ### OPENSOURCE EXPERIENCES
-**INTERN, MLH Fellowship** | _Apace/Airflow_
+**MLH Fellowship** | _Apace/Airflow_
 Project Link: https://github.com/apache/airflow
 
 1. Migrating to Connexion version 3
