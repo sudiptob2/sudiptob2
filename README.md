@@ -65,13 +65,13 @@ Some other notable open-source projects and contributions [ChkWareCLI](https://g
 <img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 <img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
-<!-- 
+
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
--->
+
 
 #### Recent Blogs
 - [Scaling Kubernetes workloads using HPA + Prometheus + Keptn Metrics](https://github.com/sudiptob2/autoscaling-using-keptn-hpa-exercise)
