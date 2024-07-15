@@ -1,4 +1,4 @@
-## MSc @UWO, Opensource contributor in data, platform and Devops From 🇨🇦 🇧🇩	 
+## MSc @UWO, Opensource contributor in data, platform and DevOps.	 
 
 <p align="left">
   <!--
