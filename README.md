@@ -1,4 +1,4 @@
-## MSc @UWO, Opensource contributor in data, platform and DevOps.	 
+## MSc @UWO, Opensource contributor in Kubernetes, Infra and DevOps.	 
 
 <p align="left">
   <!--
