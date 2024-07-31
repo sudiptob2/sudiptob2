@@ -36,7 +36,7 @@ Yunikorn History Server (YHS) is a historical log management plugin for the K8s 
 3. Implemented performance test using `K6`
 4. E2E testing of the `webservice` and `event listener` modules.
 5. Also worked on ci/cd, endpoint implementations, documentation, unit tests and participated in project management and peer review.
-6. List of PRs: [is:pr author:sudiptob2 is:merged](https://github.com/G-Research/yunikorn-history-server/pulls?q=is%3Apr+author%3Asudiptob2+is%3Aclosed)
+6. List of PRs: [is:pr author:sudiptob2 is:merged](https://github.com/G-Research/yunikorn-history-server/pulls?q=is%3Apr+author%3Asudiptob2+is%3Amerged)
 
 
 **MLH Fellowship** | _Apace/Airflow_
