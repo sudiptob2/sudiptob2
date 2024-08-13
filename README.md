@@ -12,9 +12,6 @@
   <a href="https://stackoverflow.com/users/5921662/sudipto">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
-  </a>
   <a href="https://github.com/sudiptob2/">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
   </a>
