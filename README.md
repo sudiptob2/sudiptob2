@@ -23,7 +23,7 @@ MSc in Computer Science at the **University of Western Ontario** in Canada ðŸ‡¨ð
 **View my resume [here](https://github.com/sudiptob2/sudiptob2/blob/main/files/sudipto-baral-opensource.pdf).**
 
 ### OPENSOURCE EXPERIENCES
-**Internship** | _G-Research OSS_
+**Opensource Software Engineer (Aug 2024 - Present) | Internship (May - July 2024)** | _G-Research OSS_
 Project Link: https://github.com/G-Research/yunikorn-history-server
 
 Yunikorn History Server (YHS) is a historical log management plugin for the K8s cluster that uses **apache/yunikorn** as the scheduler.
