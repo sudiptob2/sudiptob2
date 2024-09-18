@@ -18,7 +18,7 @@
 
 </p>
 
-MSc in Computer Science at the **University of Western Ontario** in Canada 🇨🇦. My journey into the world of open-source software began in late 2022, and I quickly fell in love with it, prompting me to consistently contribute to open-source projects ever since ❤️ I mostly contribute in Kubernetes, Infra, Observability, Cloud, and DevOps-related tools and software.
+MSc in Computer Science at the **University of Western Ontario**. My journey into the world of open-source software began in late 2022, and I quickly fell in love with it, prompting me to consistently contribute to open-source projects ever since ❤️ I mostly contribute in Kubernetes, Infra, Observability, Cloud, and DevOps-related tools and software.
 
 **View my resume [here](https://github.com/sudiptob2/sudiptob2/blob/main/files/sudipto-baral-opensource.pdf).**
 
