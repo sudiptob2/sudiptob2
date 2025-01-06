@@ -26,10 +26,10 @@ MSc in Computer Science at the **University of Western Ontario**. My journey int
 **Opensource Software Engineer (Aug 2024 - Present) | Internship (May - July 2024)** | _G-Research OSS_
 Project Link: https://github.com/G-Research/yunikorn-history-server
 
-Yunikorn History Server (YHS) is a historical log management plugin for the K8s cluster that uses **apache/yunikorn** as the scheduler.
+Unikorn History Server (UHS) is a historical log management plugin for the K8s cluster that uses **apache/yunikorn** as the scheduler.
 
 1. Implemented logging mechanism using `zap`
-2. Complete `Helm Chart` for YHS
+2. Complete `Helm Chart` for UHS
 3. Implemented performance test using `K6`
 4. E2E testing of the `webservice` and `event listener` modules.
 5. Also worked on ci/cd, endpoint implementations, documentation, unit tests and participated in project management and peer review.
@@ -67,7 +67,7 @@ Project Link: [https://github.com/sudiptob2/cf‐stats](https://github.com/sudip
 
 Some other notable open-source projects and contributions [ChkWareCLI](https://github.com/chkware/cli), [LeetEasy](https://github.com/sudiptob2/leet-easy), [jx-promote](https://github.com/jenkins-x-plugins/jx-promote) etc.
 
-
+<!-- 
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
@@ -81,7 +81,7 @@ Some other notable open-source projects and contributions [ChkWareCLI](https://g
 <img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
-
+-->
 
 #### Recent Blogs
 - [Scaling Kubernetes workloads using HPA + Prometheus + Keptn Metrics](https://github.com/sudiptob2/autoscaling-using-keptn-hpa-exercise)
