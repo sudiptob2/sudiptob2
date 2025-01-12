@@ -23,7 +23,7 @@ MSc in Computer Science at the **University of Western Ontario**. My journey int
 **View my resume [here](https://github.com/sudiptob2/sudiptob2/blob/main/files/sudipto-baral-opensource.pdf).**
 
 ### OPENSOURCE EXPERIENCES
-**Opensource Software Engineer (Aug 2024 - Present) | Internship (May - July 2024)** | _G-Research OSS_
+**Unikorn History Server (UHS)**
 Project Link: https://github.com/G-Research/yunikorn-history-server
 
 Unikorn History Server (UHS) is a historical log management plugin for the K8s cluster that uses **apache/yunikorn** as the scheduler.
