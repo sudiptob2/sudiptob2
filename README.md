@@ -1,4 +1,4 @@
-## MSc @UWO, Opensource contributor in Kubernetes, Infra and DevOps.	 
+## Opensource contributor in Kubernetes, Infra, and DevOps; Based in Toronto, CN	 
 
 <p align="left">
   <!--
