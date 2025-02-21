@@ -18,7 +18,7 @@
 
 </p>
 
-MSc in Computer Science at the **University of Western Ontario**. My journey into the world of open-source software began in late 2022, and I quickly fell in love with it, prompting me to consistently contribute to open-source projects ever since ❤️ I mostly contribute in Kubernetes, Infra, Observability, Cloud, and DevOps-related tools and software.
+I mostly contribute to Kubernetes, Infra, Observability, Cloud, and DevOps-related tools and software in the CNCF landscape.
 
 
 ### OPENSOURCE EXPERIENCES
