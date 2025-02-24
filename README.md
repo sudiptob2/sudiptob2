@@ -5,7 +5,7 @@
   <a href="https://leetcode.com/sudiptob2/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
-  -->🇨🇦
+  -->
   <a href="https://codeforces.com/profile/sudipto.me">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
