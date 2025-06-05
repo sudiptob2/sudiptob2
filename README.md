@@ -4,6 +4,13 @@ I mostly contribute to Kubernetes, Infra, Observability, Cloud, and DevOps-relat
 
 
 ### OPENSOURCE EXPERIENCES
+**LFX Mentorship @Envoy/Gateway**
+Project Link: https://github.com/envoyproxy/gateway
+
+1. Implemented **fuzz testing** to identify potential security vulnerabilities within the **envoyproxy/gateway** codebase.
+2. This work is tracked in https://github.com/envoyproxy/gateway/issues/5425
+3. **LFX Mentee profile:** https://mentorship.lfx.linuxfoundation.org/mentee/ae998fbc-1bba-4e4b-8532-189070556f6b
+
 **Unikorn History Server (UHS)**
 Project Link: https://github.com/G-Research/yunikorn-history-server
 
